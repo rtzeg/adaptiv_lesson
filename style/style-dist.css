@@ -125,7 +125,7 @@ button {
 }
 @media screen and (max-width: 540px) {
     .sec1 {
-        height: 580px;
+        height: 62  0px;
     }
     .content {
         padding: 10px;
@@ -146,7 +146,7 @@ button {
 }
 @media screen and (max-width: 390px) {
     .sec1 {
-        height: 480px;
+        height: 520px;
     }
     h1 {
         text-align: center;
